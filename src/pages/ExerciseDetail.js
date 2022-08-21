@@ -5,3 +5,4 @@ export const ExerciseDetails = () => {
         <div>ExerciseDetails</div>
     )
 }
+export default ExerciseDetails;
